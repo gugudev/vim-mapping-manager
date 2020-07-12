@@ -5,7 +5,7 @@ This is a plugin that takes your vim mappings to the next level, by using it you
 - [x] Simplicity, readability, and extensibility.
 - [x] Out-of-the-box integration with vim-which-key
 - [x] Run time checkers and validations. (ex: duplicated mappings)
-- [ ] Ability to create Ruby methods to be executed by VIM mappings.
+- [x] Ability to create Ruby methods to be executed by VIM mappings.
 - [x] Run time helpers.(ex: current_file_path, current_line)
 - [ ] Auto-generated markdown documentation.
 
